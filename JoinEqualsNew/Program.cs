@@ -133,4 +133,8 @@ var terminalTimeslots = LinqHelper.UpdateTerminalTimeslotsParametersFromDB(gateF
 
 terminalTimeslots.ForEach(t => Console.WriteLine(t));
 
+//1, 16.07.2023, 1(1)
+//1, 16.07.2023, 2(22)
+//1, 16.07.2023, 3(3)
+
 Console.ReadKey();
