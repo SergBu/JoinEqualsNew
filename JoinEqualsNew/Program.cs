@@ -23,8 +23,8 @@ var gateFromDb = new Gate
 // fromDBId   fromRequestId
 // 1 (1)       1  (1)
 // 2 (2)       22 (2)
-// 3 (3)       -  (3)
-// - (4)       4  (4)
+// 3 (3)       -  
+// -           4  (4)
 
 var terminalTimeslot1FromDB = new TerminalTimeslot
 {
